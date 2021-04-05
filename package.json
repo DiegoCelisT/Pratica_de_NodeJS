@@ -8,6 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node Modulo_HTTP.js",
+    "matematicas": "node index-math.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
