@@ -1,0 +1,34 @@
+{
+  "name": "pratica_nodejs_diego",
+  "version": "1.0.0",
+  "description": "pratica de conceitos basicos, modulos fabricados, pre-fabricados, instalacao de modulos de npmjs, etc",
+  "main": "Modulo_HTTP.js",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoCelisT/Pratica_de_NodeJS.git"
+  },
+  "keywords": [
+    "pratica",
+    "NodeJS",
+    "modulos",
+    "HTTP",
+    "File",
+    "System",
+    "testes",
+    "exemplos",
+    "educacao"
+  ],
+  "author": "DiegoCelisT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoCelisT/Pratica_de_NodeJS/issues"
+  },
+  "homepage": "https://github.com/DiegoCelisT/Pratica_de_NodeJS#readme"
+}

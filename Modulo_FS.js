@@ -19,9 +19,9 @@ fs.writeFile ('./Meu-novo-arquivo-usando-NodeJS.txt', 'Este é um arquivo criado
 
 
 //Ler um arquivo:
-fs.readFile ('./Meu-novo-arquivo-usando-NodeJS.txt', function (errorzão, data){
-    if (errorzão){
-        console.log ("O erro foi o seguinte: ", errorzão);
+fs.readFile ('./Meu-novo-arquivo-usando-NodeJS.txt', function (err, data){
+    if (err){
+        console.log ("O erro foi o seguinte: ", err);
     }
     console.log(data.toString()); //Método para convertir os dados a String legível
 })
